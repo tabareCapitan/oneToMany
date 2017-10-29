@@ -7,8 +7,6 @@
 *
 * Last modified:2015/01/14		
 *
-* Institution:	CATIE
-*
 * Description:  Convert multiple selection questions coded in a single string
 *		 		variable separated by an space into dummies for each option. 
 *				
