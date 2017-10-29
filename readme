@@ -1,1 +1,6 @@
-This is a small program for stata that takes answers from multiple-choice questions, coded in one variable, and creates binary variables for each of the choices in the multiple-choice question.
+This is small program (.ado) for Stata takes answers from multiple-choice questions, 
+coded as a string in one variable, and creates dummy variables for each of the
+choices in the multiple-choice question.
+
+
+
