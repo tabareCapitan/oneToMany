@@ -1,7 +1,7 @@
 /*******************************************************************************
 * Name: 		one_to_many.ado
 *
-* Author:		Tabaré Capitán (tcapitan@catie.ac.cr)
+* Author:		TabarÃ© CapitÃ¡n (tabare.capitan@gmail.com)
 *
 * Created:		2014/11/03
 *
