@@ -1,4 +1,4 @@
-This is small program (.ado) for Stata takes answers from multiple-choice questions, 
+This small program (.ado) for Stata takes answers from multiple-choice questions, 
 coded as a string in one variable, and creates dummy variables for each of the
 choices in the multiple-choice question.
 
